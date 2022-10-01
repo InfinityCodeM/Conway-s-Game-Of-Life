@@ -1,0 +1,12 @@
+body{
+	background-color: black;
+}
+
+.textIn{
+	font-family: "monospace";
+	text-align: center;
+	color: white;
+	background-color: black;
+	border: 2px solid white;
+	border-radius: 15px;
+}
