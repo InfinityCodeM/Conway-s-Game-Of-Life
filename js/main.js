@@ -56,8 +56,8 @@ class cell{
 		}
 	}
 	
-	Método para editar la célula.
-	/*edit(){
+	/*Método para editar la célula.
+	edit(){
 		if(this.e == 0){
 			this.e = 1;
 			this.a = 0;
