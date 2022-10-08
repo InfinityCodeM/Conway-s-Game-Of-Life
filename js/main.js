@@ -8,7 +8,6 @@ var cols = 24;		//COLUMNAS.
 
 var cellW = 8;		//ANCHO DE CELDA.
 var cellH = 8;		//ALTO DE CELDA.
-
 //Degradado de color de acuerdo a la edad.
 var ageColor = ["#00FF00",
 				"#11FF11",
