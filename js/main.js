@@ -57,7 +57,7 @@ class cell{
 	}
 	
 	Método para editar la célula.
-	edit(){
+	/*edit(){
 		if(this.e == 0){
 			this.e = 1;
 			this.a = 0;
@@ -67,7 +67,7 @@ class cell{
 			this.a = 0;
 			document.querySelector("#c"+this.r+this.c).style.backgroundColor = "black";
 		}
-	}
+	}*/
 	
 	//Método para calcular la siguiente generación, aplicando las reglas originales de Conway.
 	sigGen(){
